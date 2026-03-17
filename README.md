@@ -139,7 +139,6 @@ D3000000 00000000
 00775380 35FFFFFF
 ```
 [Have All Items [Restoration Mod v100]
-```text]
 ```text
 D3000000 00000000
 00775354 03020100
@@ -281,22 +280,18 @@ Event Items
 2F - Letter To Kafei
 30 - Pendant Of Memories
 ```
+
 Replace last 2 digits on bottom row
-```
-```
+
 [Event Item Modifier 1]
 ```text
 D3000000 00000000
 00775358 FFFFFFFF
-Original Code:
-00775358 0706FF04
 ```
 [Event Item Modifier 2]
 ```text
 D3000000 00000000
 0077535C FFFFFFFF
-Original Code:
-0077535C FF0A0908
 ```
 [Event Modifier 3]
 ```text
