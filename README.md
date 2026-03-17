@@ -3,6 +3,7 @@ I made these codes on 09/16/2023, but did not release them until 03/17/2026, bec
 # Majora-s-Mask-3D-Readmit-s-Codes
 MM3D Codes, equivalent to the N64 version.
 [Have all masks]
+```text
 D3000000 00000000
 0077536C 4547383E
 00775370 463A3240
@@ -15,14 +16,17 @@ D2000000 00000000
 Have individual mask codes:
 
 [Have Postman's Hat]
+```text
 D3000000 00000000
 0077536C FFFFFF3E
 
 [Have All-Night Mask]
+```text
 D3000000 00000000
 0077536C FFFF38FF
 
 [Have Blast Mask]
+```text
 D3000000 00000000
 0077536C FF47FFFF
 
@@ -31,86 +35,107 @@ D3000000 00000000
 0077536C 45FFFFFF
 
 [Have Great Fairy Mask]
+```text
 D3000000 00000000
 00775370 FFFFFF40
 
 [Have Deku Mask]
+```text
 D3000000 00000000
 00775370 FFFF32FF
 
 [Have Keaton Mask]
+```text
 D3000000 00000000
 00775370 FF3AFFFF
 
 [Have Breman Mask]
+```text
 D3000000 00000000
 00775370 46FFFFFF
 
 [Have Bunny Hood]
+```text
 D3000000 00000000
 00775374 FFFFFF39
 
 [Have Don Gero's Mask]
+```text
 D3000000 00000000
 00775374 FFFF42FF
 
 [Have Mask of Scents]
+```text
 D3000000 00000000
 00775374 FF48FFFF
 
 [Have Goron Mask]
+```text
 D3000000 00000000
 00775374 33FFFFFF
 
 [Have Romani's Mask]
+```text
 D3000000 00000000
 00775378 FFFFFF3C
 
 [Have Circus Leader's Mask]
+```text
 D3000000 00000000
 00775378 FFFF3DFF
 
 [Have Kafei's Mask]
+```text
 D3000000 00000000
 00775378 FF37FFFF
 
 [Have Couple's Mask]
+```text
 D3000000 00000000
 00775378 3FFFFFFF
 
 [Have Mask of Truth]
+```text
 D3000000 00000000
 0077537C FFFFFF36
 
 [Have Zora Mask]
+```text
 D3000000 00000000
 0077537C FFFF34FF
 
 [Have Kamaro's Mask]
+```text
 D3000000 00000000
 0077537C FF43FFFF
 
 [Have Gibdo Mask]
+```text
 D3000000 00000000
 0077537C 41FFFFFF
 
 [Have Garo's Mask]
+```text
 D3000000 00000000
 00775380 FFFFFF3B
 
 [Have Captain's Hat]
+```text
 D3000000 00000000
 00775380 FFFF44FF
 
 [Have Giant's Mask]
+```text
 D3000000 00000000
 00775380 FF49FFFF
 
 [Have Fierce Deity Mask]
+```text
 D3000000 00000000
 00775380 35FFFFFF
 
 [Have All Items [Restoration Mod v100]]
+```text
 D3000000 00000000
 00775354 03020100
 00775358 0706FF04
@@ -123,14 +148,17 @@ D3000000 00000000
 D2000000 00000000
 
 [Have Ocarina of Time]
+```text
 D3000000 00000000
 00775354 FFFFFF00
 
 [Have Hero's Bow]
+```text
 D3000000 00000000
 00775354 FFFF01FF
 
 [Have Fire Arrow]
+```text
 D3000000 00000000
 00775354 FF02FFFF
 
