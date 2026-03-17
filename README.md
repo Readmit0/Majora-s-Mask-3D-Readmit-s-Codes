@@ -305,18 +305,3 @@ D3000000 00000000
 Original Code:
 00775368 FFFFFFFF
 ```
-Comparison N64 to 3DS
-N64
-Have Bunny Hood
-801EF700 0039
-```
-3DS
-[Have Bunny Hood]
-```text
-D3000000 00000000
-00775374 FFFFFF39
-```
-any item any character
-N64
-811F3588 0000
-811F358A 0000
