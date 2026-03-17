@@ -12,6 +12,7 @@ D3000000 00000000
 0077537C 41433436
 00775380 3549443B
 D2000000 00000000
+```
 
 Have individual mask codes:
 
@@ -24,30 +25,27 @@ D3000000 00000000
 ```text
 D3000000 00000000
 0077536C FFFF38FF
-
+```
 [Have Blast Mask]
 ```text
 D3000000 00000000
 0077536C FF47FFFF
-
+```
 [Have Stone Mask]
+```text
 D3000000 00000000
 0077536C 45FFFFFF
-
+```
 [Have Great Fairy Mask]
 ```text
 D3000000 00000000
 00775370 FFFFFF40
-
+```
 [Have Deku Mask]
 ```text
 D3000000 00000000
 00775370 FFFF32FF
-
-[Have Keaton Mask]
-```text
-D3000000 00000000
-00775370 FF3AFFFF
+```
 
 [Have Breman Mask]
 ```text
