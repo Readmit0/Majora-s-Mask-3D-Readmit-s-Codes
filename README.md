@@ -3,6 +3,7 @@
 I made these codes on 09/16/2023, but did not release them until 03/17/2026, because my attempts to upload them to GameHacking.org failed, and the moderators didn't help me upload them. These codes are for the 3DS version and are equivalent to the codes available for the N64 version of the game.
 
 MM3D Codes, equivalent to the N64 version.
+```text
 [Have all masks]
 ```text
 D3000000 00000000
